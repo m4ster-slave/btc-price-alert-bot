@@ -20,7 +20,7 @@ A simple Rust application that monitors Bitcoin prices and sends Discord alerts 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/btc-price-alert-bot.git
+   git clone https://github.com/m4ster-slave/btc-price-alert-bot.git
    cd btc-price-alert-bot
    ```
 
